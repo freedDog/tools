@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN" "http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd"[]>
+<configuration>
+  <settings>
+    <setting name="defaultStatementTimeout" value="60" />
+  </settings>
+  <environments default="development">
+    <environment id="development">
+      <transactionManager type="JDBC" />
+      <dataSource type="POOLED">
+        <property name="driver" value="com.mysql.jdbc.Driver" />
+        <property name="url" value="jdbc:mysql://192.168.4.20:3306/xqj_game_data?autoReconnect=true" />
+        <property name="username" value="root" />
+        <property name="password" value="123456" />
+        <property name="poolPingQuery" value="select 1" />
+        <property name="poolPingEnabled" value="true" />
+        <property name="poolPingConnectionsNotUsedFor" value="3600000" />
+      </dataSource>
+    </environment>
+  </environments>
+  <mappers>
+    <!--q_access_resource LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_access_resource.xml" />
+    <!--q_attendants LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_attendants.xml" />
+    <!--q_auction LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_auction.xml" />
+    <!--q_babel LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_babel.xml" />
+    <!--q_backpack_grid LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_backpack_grid.xml" />
+    <!--q_boss_world LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_boss_world.xml" />
+    <!--q_buff LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_buff.xml" />
+    <!--q_character LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_character.xml" />
+    <!--q_destiny_condition LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_destiny_condition.xml" />
+    <!--q_destiny_rewards LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_destiny_rewards.xml" />
+    <!--q_effect_model LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_effect_model.xml" />
+    <!--q_equip_soul LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_equip_soul.xml" />
+    <!--q_equip_streng LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_equip_streng.xml" />
+    <!--q_fate_equip_rewards LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_fate_equip_rewards.xml" />
+    <!--q_fate_equip_task LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_fate_equip_task.xml" />
+    <!--q_fight_of_fate LastUpdate: 2016-08-10 16:07:17-->
+    <mapper resource="com/game/data/sqlmap/q_fight_of_fate.xml" />
+    <!--q_func_guide LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_func_guide.xml" />
+    <!--q_gift LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_gift.xml" />
+    <!--q_global LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_global.xml" />
+    <!--q_guild LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_guild.xml" />
+    <!--q_guild_flag LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_guild_flag.xml" />
+    <!--q_guild_flag_pro LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_guild_flag_pro.xml" />
+    <!--q_horse LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_horse.xml" />
+    <!--q_horse_addition LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_horse_addition.xml" />
+    <!--q_horse_skills LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_horse_skills.xml" />
+    <!--q_item LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_item.xml" />
+    <!--q_item_simpact LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_item_simpact.xml" />
+    <!--q_jiaochang LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_jiaochang.xml" />
+    <!--q_lottory LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_lottory.xml" />
+    <!--q_map LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_map.xml" />
+    <!--q_map_transfer LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_map_transfer.xml" />
+    <!--q_military_rank LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_military_rank.xml" />
+    <!--q_minimapshow LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_minimapshow.xml" />
+    <!--q_mission_base LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_mission_base.xml" />
+    <!--q_mission_bubble LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_mission_bubble.xml" />
+    <!--q_mission_reword LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_mission_reword.xml" />
+    <!--q_mission_section LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_mission_section.xml" />
+    <!--q_mission_segment LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_mission_segment.xml" />
+    <!--q_money_tree LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_money_tree.xml" />
+    <!--q_monster LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_monster.xml" />
+    <!--q_monster_dropgroup LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_monster_dropgroup.xml" />
+    <!--q_monster_dropprob LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_monster_dropprob.xml" />
+    <!--q_moonbox LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_moonbox.xml" />
+    <!--q_newfunc LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_newfunc.xml" />
+    <!--q_npc LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_npc.xml" />
+    <!--q_online LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_online.xml" />
+    <!--q_prestige LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_prestige.xml" />
+    <!--q_quest_guide LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_quest_guide.xml" />
+    <!--q_redord LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_redord.xml" />
+    <!--q_resource_zone LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_resource_zone.xml" />
+    <!--q_resources_recovery LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_resources_recovery.xml" />
+    <!--q_scene_monster LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_scene_monster.xml" />
+    <!--q_scene_monster_area LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_scene_monster_area.xml" />
+    <!--q_seven_land LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_seven_land.xml" />
+    <!--q_shop_base LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_shop_base.xml" />
+    <!--q_shop_data LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_shop_data.xml" />
+    <!--q_shop_describe LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_shop_describe.xml" />
+    <!--q_sign LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_sign.xml" />
+    <!--q_skill_ignore LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_skill_ignore.xml" />
+    <!--q_skill_model LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_skill_model.xml" />
+    <!--q_skill_public LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_skill_public.xml" />
+    <!--q_special_activities LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_special_activities.xml" />
+    <!--q_tipconfig LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_tipconfig.xml" />
+    <!--q_treasure_box_rewards LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_treasure_box_rewards.xml" />
+    <!--q_treasure_hunt LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_treasure_hunt.xml" />
+    <!--q_upgrade LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_upgrade.xml" />
+    <!--q_year_monster LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_year_monster.xml" />
+    <!--q_zone LastUpdate: 2016-08-10 16:11:08-->
+    <mapper resource="com/game/data/sqlmap/q_zone.xml" />
+  </mappers>
+</configuration>

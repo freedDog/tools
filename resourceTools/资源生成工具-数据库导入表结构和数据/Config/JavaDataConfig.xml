@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<JavaDataGenerateConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <configs>
+    <JavaDataGenerateInfo>
+      <caption>默认配制</caption>
+      <folder>E:\work\Game_XQJ\Game_LSM_Base\</folder>
+      <db_configFile>E:\work\Game_XQJ\Game_LSM_Logic\config\data-config.xml</db_configFile>
+      <baseDao>BaseDao</baseDao>
+      <package_basic>com.game.data</package_basic>
+      <manager>com.game.data.manager.DataManager</manager>
+      <db_config>
+        <DbType>MySql</DbType>
+        <Username>root</Username>
+        <Password>123456</Password>
+        <IPAddress>192.168.4.20</IPAddress>
+        <Port>3306</Port>
+        <Database>xqj_game_data</Database>
+        <VersionInfo>
+          <TableName>q_version</TableName>
+          <TableField>q_tablename</TableField>
+          <IntValueField>q_int_value</IntValueField>
+          <DescField>q_desc</DescField>
+        </VersionInfo>
+      </db_config>
+      <overlap>false</overlap>
+    </JavaDataGenerateInfo>
+  </configs>
+  <lastIndex>0</lastIndex>
+</JavaDataGenerateConfig>

@@ -1,0 +1,8 @@
+[10:56:49]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[10:56:49]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[10:56:49]  INFO[1] 查找到 29 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[10:56:49]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[10:58:23]  INFO[4] 开始解析【1 人物升级所需经验与属性加成数据库_服务端.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[11:07:52]  INFO[1] 操作完毕。(MainForm.RaiseEvent:0)
+[11:07:52]  INFO[7] 开始解析【1 人物升级所需经验与属性加成数据库_服务端.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[11:08:20]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<AsDataGenerateConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <configs>
+    <AsDataGenerateInfo>
+      <caption>默认配制</caption>
+      <folder>D:\6新版本AS\</folder>
+      <package_basic>datasets</package_basic>
+      <beanImport>
+        <string>net.Bean</string>
+        <string>com.game.utils.long</string>
+      </beanImport>
+      <containerImport>
+        <string>flash.utils.Dictionary</string>
+        <string>flash.utils.ByteArray</string>
+      </containerImport>
+      <isSet>false</isSet>
+    </AsDataGenerateInfo>
+  </configs>
+  <lastIndex>0</lastIndex>
+</AsDataGenerateConfig>

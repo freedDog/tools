@@ -1,0 +1,6 @@
+[02:54:33]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[02:54:33]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[02:54:33]  INFO[1] 查找到 111 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[02:54:34]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[02:54:44]  INFO[4] 开始解析【20 任务数据库集合_.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[02:55:01]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)

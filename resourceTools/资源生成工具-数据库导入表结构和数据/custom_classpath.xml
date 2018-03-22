@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<custom_class>
+    <CustomJavaClass>
+      <className>TempItem</className>
+      <package>com.old_game.backpack.structs.TempItem</package>
+    </CustomJavaClass>   
+    <CustomJavaClass>           
+      <className>TempItem2</className>
+      <package>com.old_game.backpack.structs.TempItem</package>
+    </CustomJavaClass>    
+</custom_class>

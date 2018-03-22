@@ -1,0 +1,2108 @@
+[14:04:38]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:04:38]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[14:04:38]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:04:38]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[14:04:47]  INFO[4] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:48] FATAL[4] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:04:48] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:04:48]  WARN[4] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:04:59]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:04:59]  INFO[1] 文件列表加载完毕。(MainForm.C_MainMenu_ReloadFolder_Click:0)
+[14:04:59]  INFO[4] 开始解析【龙纹战域前端语言包.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【领地守旗副本配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【铭刻装备属性表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【转生灵魂购买.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【语言包.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【禁地试炼.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【真AI.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【活跃值系统数据表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【时装配制.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【战神诀特殊属性数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:04:59]  INFO[4] 开始解析【战神诀日常碎片任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【战神诀配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【战神特戒任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【战斗力.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【我要变强配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【成就系统数据表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:00]  INFO[4] 开始解析【悬赏任务表格设计.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:01]  INFO[4] 开始解析【恶魔深渊配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:01]  INFO[4] 开始解析【怪物属性配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:10] FATAL[4] 打开【怪物属性配置表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:05:10] ERROR[4] Cannot get a text value from a numeric cell(ExcelManager.ParseWorkbook:0)
+[14:05:10]  INFO[4] 开始解析【帮会配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:10]  INFO[4] 开始解析【帮会商店配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:10]  INFO[4] 开始解析【帮会任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:12]  INFO[4] 开始解析【帮会任务4服.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【封魔峡谷奖励表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【奖励表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【天赐神兵数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【任务刷新概率配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【BOSS之家必掉几率配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【BOSS之家免费关卡与必掉关卡配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【AI.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:13] FATAL[4] 打开【AI.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:05:13] ERROR[4] DuplicateNameException: 名为“varchar(512)”的列已属于此 DataTable。(ExcelManager.ParseWorkbook:0)
+[14:05:13]  INFO[4] 开始解析【9 裁决主线.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:14]  INFO[4] 开始解析【9_3兑换任务表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:14]  INFO[4] 开始解析【9_2 支线任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:14]  INFO[4] 开始解析【9_1 任务系统数据库 集合.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:17]  INFO[4] 开始解析【8 地图加载与属性数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:17]  INFO[4] 开始解析【8_3 小地图配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:17]  INFO[4] 开始解析【8_2 地图副本数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:17]  INFO[4] 开始解析【8_1 地图传送点配置数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:18]  INFO[4] 开始解析【88 极品属性表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:19]  INFO[4] 开始解析【87_血符相关数据.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:19]  INFO[4] 开始解析【86_装备注灵表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:19]  INFO[4] 开始解析【85_玛法黑市配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:19]  INFO[4] 开始解析【84_拍卖系统.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:19]  INFO[4] 开始解析【83_特殊套装属性.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:20]  INFO[4] 开始解析【82_战胜竞技虚拟玩家.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:20]  INFO[4] 开始解析【81_悬赏任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:21]  INFO[4] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:21] FATAL[4] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:05:21] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:05:21]  WARN[4] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:05:21]  INFO[4] 开始解析【7 NPC刷新与配置信息数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:22]  INFO[4] 开始解析【79_神装兑换.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:22]  INFO[4] 开始解析【79_神装兑换有新字段备份.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:23]  INFO[4] 开始解析【78 活跃值系统数据表 .xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:23]  INFO[4] 开始解析【78_活跃奖励配置表4服.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:24]  INFO[4] 开始解析【78_活跃奖励配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:24]  INFO[4] 开始解析【75_魂值对应属性.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:25]  INFO[4] 开始解析【73合成稀世装备消耗对照表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:25]  INFO[4] 开始解析【71跨服配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:25]  INFO[4] 开始解析【70 勇闯天关配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:25]  INFO[4] 开始解析【6 商店配置数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:26]  INFO[4] 开始解析【6 商店配署数据库（版署）.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【69 资源找回配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【68攻城战配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【67 钱庄投资.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【66 帮会升级配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【65 玩家问卷调查表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【64战神诀护身戒指副本刷怪.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【63攻城战刷怪表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【63_1攻城战刷buff表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【60 领地战PVE配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【60_1领地战PVP配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【5 仓库开格配置数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【59 玉佩数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  WARN[4] 【q_jade】表主键【q_yp_level】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:05:27]  INFO[4] 开始解析【59_1 勋章数据表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  WARN[4] 【q_medal】表主键【q_medal_level】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:05:27]  INFO[4] 开始解析【58 珍宝争夺战.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【57 伏魔阵题库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【56 神器保卫战数据库表 .xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:27]  INFO[4] 开始解析【55 内功数据库配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【54 机器人出生装备属性.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【53 砸金蛋 .xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【52 击杀中立怪得到的经验和经验上限.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【51 巅峰对决.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【50 帮会boss数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【50_1帮会BOSS掉落配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:28]  INFO[4] 开始解析【4 技能基本数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:29]  INFO[4] 开始解析【4_1 效果配置数据库设计.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:30]  INFO[4] 开始解析【49 武魂数据库配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:30]  INFO[4] 开始解析【48 单人副本奖励表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:30]  INFO[4] 开始解析【47 日常副本活动数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  WARN[4] 【q_daily_challenge_zone】表主键【q_id】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:05:31]  INFO[4] 开始解析【46 飞来横财数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【45 随从数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【44 武器神炼数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【43人物洗髓数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【42 BOSS前10奖励.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【41 合服活动数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【40 BOSS之家数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:31]  INFO[4] 开始解析【3 怪物数据库设计.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:36]  INFO[4] 开始解析【3_5 随从配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:36]  WARN[4] 【q_entourage】表主键【q_id】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:05:36]  INFO[4] 开始解析【3_4 宠物属性表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:36]  WARN[4] 【q_pet】表主键【q_petID_q_grade】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:05:36]  INFO[4] 开始解析【3_3 刷怪数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:38]  INFO[4] 开始解析【3_2 怪物爆率组包附加数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:43]  INFO[4] 开始解析【3_1 怪物爆率数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【3_10怪物属性随人物等级成长表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【3_0开服时间增强怪物属性.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【39 称号数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【38 套装展示数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【37 人物属性丹数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【36 极品爆率查询数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【35 天关试炼数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:44]  INFO[4] 开始解析【34 极寒之地 数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:45]  INFO[4] 开始解析【33 装备回收经验表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:45]  INFO[4] 开始解析【32 随机姓名表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:45]  INFO[4] 开始解析【31 领土争霸战玩法数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:45]  INFO[4] 开始解析【30 npc动态任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:05:45]  INFO[4] 开始解析【2 物品基本信息数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:00]  INFO[4] 开始解析【2_9 装备巧夺天工数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_9 装备巧夺天工数据库金币.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_8 装备鉴定.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_7 装备特殊属性提升配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_6 全身装备强化奖励.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_5 装备合成消耗.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  INFO[4] 开始解析【2_4 装备属性继承数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:01]  WARN[4] 【q_equip_appraise】表主键【q_type_stage】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:06:01]  INFO[4] 开始解析【2_3 物品强化数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:02]  WARN[4] 【q_item_strength】表主键【q_type_stage】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:06:02]  INFO[4] 开始解析【2_2 套装属性配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:02]  INFO[4] 开始解析【2_1 装备随机属性数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:02]  INFO[4] 开始解析【2_12 物品兑换配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:02]  INFO[4] 开始解析【2_11 天工石配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:02]  WARN[4] 【q_tiangongshi】表主键【q_index】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:06:03]  INFO[4] 开始解析【2_10 特殊道具配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【28 Boss查看面板显示数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【27 聚宝盆数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【26 挖BOSS数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【25 神兵天器.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【25_1 黄金武器成长.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【24 极品幻化数值数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【23 新服冲级配置数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【22 坐骑系统数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【21 光翼系统数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【20 特殊活动配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:03]  INFO[4] 开始解析【20_2 开心抢答题库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:04]  INFO[4] 开始解析【20_1 护送美女活动数据表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:04]  INFO[4] 开始解析【1 人物升级所需经验与属性加成数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:06]  INFO[4] 开始解析【1_2 转生相关配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:07]  INFO[4] 开始解析【1_1 转生技能相关配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:07]  INFO[4] 开始解析【19 开服活动配置数据库 - 新版本.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:07]  INFO[4] 开始解析【19_1 活动自定义怪物掉落.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:07]  INFO[4] 开始解析【18签到表 - 新版本.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:07]  INFO[4] 开始解析【17 新手卡表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【16 礼包表 - 新版本.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【15_2爵位特权配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【15_1 VIP特权配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【14 经验珠付费数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【14_1 新经验珠配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【13 场景刷新表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【12 天雷劫配置数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【11 宝箱组包数据库表集合.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  WARN[4] 【q_chest_kiwi】表主键【q_id】长度过长，系统自动设置为128。(ExcelManager.ParseExcelSheetInfo:0)
+[14:06:08]  INFO[4] 开始解析【10帮会旗帜配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【0 角色存储数据库 - 设计说明.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  WARN[4] 【0 角色存储数据库 - 设计说明.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:06:08]  INFO[4] 开始解析【0 战斗技能设计.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  WARN[4] 【0 战斗技能设计.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:06:08]  INFO[4] 开始解析【0 全局变量表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【0_2 新功能开放表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:08]  INFO[4] 开始解析【----1_2 转生相关配置表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:38]  INFO[4] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:06:38] FATAL[4] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:06:38] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:06:38]  WARN[4] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:06:49]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:06:49]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[14:06:49]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:06:49]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[14:06:59]  INFO[4] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:07:01] FATAL[4] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:07:01] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:07:01]  WARN[4] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:08:34]  INFO[8] 开始解析【86_装备注灵表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:08:39]  INFO[8] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:08:39] FATAL[8] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:08:40] ERROR[8] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:08:40]  WARN[8] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:09:48]  INFO[3] 开始解析【81_悬赏任务.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:09:54]  INFO[3] 开始解析【80 复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:09:54] FATAL[3] 打开【80 复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:09:54] ERROR[3] FileNotFoundException: 未能找到文件“E:\zsjDocument\80 复活条件表.xlsx”。(ExcelManager.ParseWorkbook:0)
+[14:09:54]  WARN[3] 【80 复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:10:12]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:10:12]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[14:10:12]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:10:12]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[14:10:19]  INFO[4] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:10:21] FATAL[4] 打开【80_复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:10:21] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:10:21]  WARN[4] 【80_复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:11:35]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:11:35]  INFO[1] 加载数据库配制文件。(MainForm.LoadDatabaseConfig:0)
+[14:11:35]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:11:36]  INFO[1] 文件列表加载完毕。(MainForm.ReloadFileInfoListTask:0)
+[14:11:43]  INFO[4] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:11:44] FATAL[4] 打开【80_复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:11:44] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:11:44]  WARN[4] 【80_复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:14:54]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:14:54]  INFO[1] 加载数据库配制文件。(MainForm.LoadDatabaseConfig:0)
+[14:14:54]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:14:54]  INFO[1] 文件列表加载完毕。(MainForm.ReloadFileInfoListTask:0)
+[14:16:21]  INFO[4] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:16:58] FATAL[4] 打开【80_复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:16:58] ERROR[4] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:16:58]  WARN[4] 【80_复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:17:06]  INFO[7] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:27:35] FATAL[7] 打开【80_复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:27:35] ERROR[7] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:27:35]  WARN[7] 【80_复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:31:30]  INFO[9] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:35:10] FATAL[9] 打开【80_复活条件表.xlsx】文件失败。(ExcelManager.ParseWorkbook:0)
+[14:35:10] ERROR[9] NullReferenceException: 未将对象引用设置到对象的实例。(ExcelManager.ParseWorkbook:0)
+[14:35:10]  WARN[9] 【80_复活条件表.xlsx】未解析到相关数据。(ExcelManager.ParseFileInfo:0)
+[14:50:46]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[14:50:46]  INFO[1] 加载数据库配制文件。(MainForm.LoadDatabaseConfig:0)
+[14:50:47]  INFO[1] 查找到 159 个文件。(ExcelManager.LoadFileInfos:0)
+[14:50:47]  INFO[1] 文件列表加载完毕。(MainForm.ReloadFileInfoListTask:0)
+[14:50:55]  INFO[4] 开始解析【80_复活条件表.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[14:51:07]  INFO[1] 修改数据库连接信息。(JavaDataGenerateInfo.ParseDatabaseConfig:0)
+[14:51:07] DEBUG[1] ===========Q_resur_ruleBean.java===============
+package com.game.data.bean;
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 14:51:07
+ * 
+ * Q_resur_rule Bean
+ */
+public class Q_resur_ruleBean {
+
+    //平台
+    private String q_agents;
+
+    //区服
+    private String q_zones;
+
+    //编号
+    private int q_id;
+
+    //死亡最小次数（闭区间）
+    private int q_num_min;
+
+    //死亡最大次数（闭区间）
+    private int q_num_max;
+
+    //消耗金币
+    private int q_need_money;
+
+    //消耗道具ID
+    private int q_need_itemid;
+
+    //消耗道具数量
+    private int q_need_itemnum;
+
+    //测试预解析json数组
+    private String q_test_revise;
+
+    //测试预解析物品
+    private String q_test_item;
+	
+	
+
+    /**
+     * get 平台
+     * @return 
+     */
+    public String getQ_agents(){
+        return q_agents;
+    }
+
+    /**
+     * set 平台
+     */
+    public void setQ_agents(String q_agents){
+        this.q_agents = q_agents;
+    }
+
+    /**
+     * get 区服
+     * @return 
+     */
+    public String getQ_zones(){
+        return q_zones;
+    }
+
+    /**
+     * set 区服
+     */
+    public void setQ_zones(String q_zones){
+        this.q_zones = q_zones;
+    }
+
+    /**
+     * get 编号
+     * @return 
+     */
+    public int getQ_id(){
+        return q_id;
+    }
+
+    /**
+     * set 编号
+     */
+    public void setQ_id(int q_id){
+        this.q_id = q_id;
+    }
+
+    /**
+     * get 死亡最小次数（闭区间）
+     * @return 
+     */
+    public int getQ_num_min(){
+        return q_num_min;
+    }
+
+    /**
+     * set 死亡最小次数（闭区间）
+     */
+    public void setQ_num_min(int q_num_min){
+        this.q_num_min = q_num_min;
+    }
+
+    /**
+     * get 死亡最大次数（闭区间）
+     * @return 
+     */
+    public int getQ_num_max(){
+        return q_num_max;
+    }
+
+    /**
+     * set 死亡最大次数（闭区间）
+     */
+    public void setQ_num_max(int q_num_max){
+        this.q_num_max = q_num_max;
+    }
+
+    /**
+     * get 消耗金币
+     * @return 
+     */
+    public int getQ_need_money(){
+        return q_need_money;
+    }
+
+    /**
+     * set 消耗金币
+     */
+    public void setQ_need_money(int q_need_money){
+        this.q_need_money = q_need_money;
+    }
+
+    /**
+     * get 消耗道具ID
+     * @return 
+     */
+    public int getQ_need_itemid(){
+        return q_need_itemid;
+    }
+
+    /**
+     * set 消耗道具ID
+     */
+    public void setQ_need_itemid(int q_need_itemid){
+        this.q_need_itemid = q_need_itemid;
+    }
+
+    /**
+     * get 消耗道具数量
+     * @return 
+     */
+    public int getQ_need_itemnum(){
+        return q_need_itemnum;
+    }
+
+    /**
+     * set 消耗道具数量
+     */
+    public void setQ_need_itemnum(int q_need_itemnum){
+        this.q_need_itemnum = q_need_itemnum;
+    }
+
+    /**
+     * get 测试预解析json数组
+     * @return 
+     */
+    public String getQ_test_revise(){
+        return q_test_revise;
+    }
+
+    /**
+     * set 测试预解析json数组
+     */
+    public void setQ_test_revise(String q_test_revise){
+        this.q_test_revise = q_test_revise;
+    }
+
+    /**
+     * get 测试预解析物品
+     * @return 
+     */
+    public String getQ_test_item(){
+        return q_test_item;
+    }
+
+    /**
+     * set 测试预解析物品
+     */
+    public void setQ_test_item(String q_test_item){
+        this.q_test_item = q_test_item;
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[14:51:07] DEBUG[1] ===========Q_resur_ruleReviseBean.java===============
+package com.game.data.revise_bean;
+
+import java.util.ArrayList;
+import java.util.List;
+import com.game.data.bean.Q_resur_ruleBean;
+import com.old_game.backpack.structs.TempItem;
+
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 14:51:07
+ * 
+ * Q_resur_rule ReviseBean
+ */
+public class Q_resur_ruleReviseBean extends Q_resur_ruleBean{
+
+    //测试预解析json数组
+    private int[][] q_test_revise_revise;
+
+    //测试预解析物品
+    private List<TempItem> q_test_item_revise = new ArrayList<TempItem>();
+	
+	
+
+    /**
+     * get 测试预解析json数组
+     * @return 
+     */
+    public int[][] getQ_test_revise_revise(){
+        return q_test_revise_revise;
+    }
+
+    /**
+     * set 测试预解析json数组
+     */
+    public void setQ_test_revise_revise(int[][] q_test_revise_revise){
+        this.q_test_revise_revise = q_test_revise_revise;
+    }
+
+    /**
+     * get 测试预解析物品
+     * @return 
+     */
+    public List<TempItem> getQ_test_item_revise(){
+        return q_test_item_revise;
+    }
+
+    /**
+     * set 测试预解析物品
+     */
+    public void setQ_test_item_revise(List<TempItem> q_test_item_revise){
+        this.q_test_item_revise = q_test_item_revise;
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[14:51:07] DEBUG[1] ===========Q_resur_ruleContainer.java===============
+package com.game.data.container;
+
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import com.game.json.FastJSONserializable;
+import org.apache.commons.lang.StringUtils;
+
+import com.game.data.bean.Q_resur_ruleBean;
+import com.game.data.revise_bean.Q_resur_ruleReviseBean;
+import com.game.data.dao.Q_resur_ruleDao;
+import com.game.data.structs.IContainer;
+import com.old_game.backpack.structs.TempItem;
+
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 14:51:07
+ * 
+ * Q_resur_rule Container
+ */
+public class Q_resur_ruleContainer implements IContainer {
+
+    private List<Q_resur_ruleBean> list;
+
+    private HashMap<Integer, Q_resur_ruleBean> map = new HashMap<Integer, Q_resur_ruleBean>();
+
+    private Q_resur_ruleDao dao = new Q_resur_ruleDao();
+
+	private List<Q_resur_ruleReviseBean> listRevise = new ArrayList<>();
+
+	private HashMap<Integer, Q_resur_ruleReviseBean> mapRevise = new HashMap<>();
+
+    public void load(){
+        list = dao.select();
+        Iterator<Q_resur_ruleBean> iter = list.iterator();
+        while (iter.hasNext()) {
+            Q_resur_ruleBean bean = (Q_resur_ruleBean) iter.next();
+            map.put(bean.getQ_id(), bean);
+        }
+		init();
+    }
+
+    public List<Q_resur_ruleBean> getList(){
+        return list;
+    }
+
+    public HashMap<Integer, Q_resur_ruleBean> getMap(){
+        return map;
+    }
+
+	/**
+     * 初始化(实现加载完成后数据处理)
+     */
+    public void init() {
+        listRevise.clear();
+        mapRevise.clear();
+        Iterator<Q_resur_ruleBean> iter = list.iterator();
+        while (iter.hasNext()) {
+            Q_resur_ruleBean bean = (Q_resur_ruleBean) iter.next();
+            Q_resur_ruleReviseBean beanRevise = new Q_resur_ruleReviseBean();
+            
+			    
+			if (!StringUtils.isEmpty(bean.getQ_test_revise())) {
+				beanRevise.setQ_test_revise_revise(FastJSONserializable.toObject(bean.getQ_test_revise(), int[][].class));
+			}	
+			    
+			if (!StringUtils.isEmpty(bean.getQ_test_item())) {
+				beanRevise.setQ_test_item_revise(FastJSONserializable.toList(bean.getQ_test_item(), TempItem.class));
+			}	
+				
+
+            listRevise.add(beanRevise);
+            mapRevise.put(beanRevise.getQ_id(), beanRevise);
+        }
+        list.clear();
+        map.clear();
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[14:51:07] DEBUG[1] ===========Q_resur_ruleDao.java===============
+package com.game.data.dao;
+
+import java.util.List;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+import com.game.data.BaseDao;
+import com.game.data.bean.Q_resur_ruleBean;
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 14:51:07
+ * 
+ * Q_resur_rule Container
+ */
+public class Q_resur_ruleDao extends BaseDao {
+
+    private SqlSessionFactory sqlMapper = getSqlMapper();
+
+	@SuppressWarnings("unchecked")
+    public List<Q_resur_ruleBean> select() {
+        SqlSession session = sqlMapper.openSession();
+        try {
+            List<Q_resur_ruleBean> list = (List<Q_resur_ruleBean>) session.selectList("q_resur_rule.select");
+            return list;
+        } finally {
+            session.close();
+        }
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[14:51:07]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)
+[16:40:36]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[16:40:36]  INFO[1] 加载数据库配制文件。(MainForm.LoadDatabaseConfig:0)
+[16:40:36]  INFO[1] 查找到 160 个文件。(ExcelManager.LoadFileInfos:0)
+[16:40:36]  INFO[1] 文件列表加载完毕。(MainForm.ReloadFileInfoListTask:0)
+[16:40:48]  INFO[4] 开始解析【4 技能基本数据库_new.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[16:42:32] DEBUG[1] ===========Q_skill_modelBean.java===============
+package com.game.data.bean;
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 16:42:32
+ * 
+ * Q_skill_model Bean
+ */
+public class Q_skill_modelBean {
+
+    //技能编号_技能等级
+    private String q_skillID_q_grade;
+
+    //技能编号
+    private int q_skillID;
+
+    //技能等级
+    private int q_grade;
+
+    //最大等级
+    private int q_max_level;
+
+    //技能名称
+    private String q_skillName;
+
+    //显示所需人物等级
+    private int q_show_needgrade;
+
+    //（前端使用）战斗力加成
+    private int q_fight_bonus;
+
+    //技能伤害类型（0默认攻击技能，1治疗技能）
+    private int q_hurt_type;
+
+    //使用方式（1主动技能，2被动技能）
+    private int q_trigger_type;
+
+    //触发方式（1在攻击时触发，2在挨打时触发(没做）,3攻击与挨打时都触发（没做），4命中后触发，5 被攻击死亡之前触发）
+    private int q_passive_action;
+
+    //使用消耗内力值
+    private int q_need_mp;
+
+    //技能吟唱时间（毫秒，0表示无吟唱时间）
+    private int q_singing_time;
+
+    //冷却时间（毫秒）
+    private int q_cd;
+
+    //公共冷却时间
+    private int q_public_cd;
+
+    //公共冷却层级
+    private int q_public_cd_level;
+
+    //延迟命中时间（单位：毫秒）
+    private int q_delay_time;
+
+    //使用距离限制（自身与目标之间的距离）（单位：格子）,地面行走魔法表示行走距离
+    private int q_range_limit;
+
+    //弹道飞行速度（单位：像素/秒）如果为0,表示无弹道,直接打鼠标指的地方或者直接作用到目标身上.PS：有弹道的话会碰触到任何目标都会触发。
+    private int q_trajectory_speed;
+
+    //作用对象（1自己，2友好目标，3敌对目标，4当前目标，5场景中鼠标的当前坐标点，6主人）
+    private int q_target;
+
+    //作用目标上限
+    private int q_target_max;
+
+    //技能伤害系数（万分比分子）
+    private int q_hurt_correct_factor;
+
+    //技能附加伤害
+    private int q_ignore_defence;
+
+    //生命值低于万分比
+    private int q_underHp_per;
+
+    //生命值低于百分比后提高技能伤害万分比
+    private int q_underHP_Damage_per;
+
+    //生命值
+    private int q_maxHp;
+
+    //攻击力
+    private int q_attack;
+
+    //防御力
+    private int q_defence;
+
+    //命中值
+    private int q_hit;
+
+    //闪避值
+    private int q_dodge;
+
+    //暴击值
+    private int q_crit;
+
+    //抗暴值
+    private int q_antiCrit;
+
+    //攻击速度百分比 
+    private int q_attackSpeed_Per;
+
+    //召唤怪物ID（1是幻象分身）
+    private int q_summon_id;
+
+    //召唤怪物数量
+    private int q_summon_num;
+
+    //召唤的幻象分身，生命值比例（万分比分子）
+    private int q_summon_hp;
+
+    //召唤的幻象分身，攻击力比例（万分比分子）
+    private int q_summon_attack;
+
+    //召唤的怪物/幻象分身持续时间（单位：秒）
+    private int q_summon_last;
+
+    //BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+    private String q_buff_trigger;
+
+    //被动触发几率（本处填万分比的分子） 如果是被动技能触发才有效，BUFF触发概率通过BUFF表控制
+    private int q_passive_prob;
+
+    //触发后附加的BUFF编号序列（格式：BUFF编号;BUFF编号）
+    private String q_passive_buff;
+
+    //BUFF命中系数
+    private int q_buff_hit;
+
+    //BUFF修正系数
+    private int q_buff_amendment;
+
+    //成功施加BUFF系数
+    private int q_bufq_trigger_factor;
+
+    //成功施加BUFF抵抗系数
+    private int q_bufq_defence_factor;
+
+    //BUFF持续时间提升系数
+    private int q_bufq_timeup_factor;
+
+    //BUFF持续时间减免系数
+    private int q_bufq_timedown_factor;
+
+    //BUFF作用数值修正系数
+    private int q_bufq_num_factor;
+
+    //BUFF作用比例修正系数（特殊：符鬼技能攻击目标死亡后恢复生命值比例（万分比分子））
+    private int q_bufq_action_factor;
+
+    //作用范围形状（1单体，2矩形，3扇形，4圆形）
+    private int q_area_shape;
+
+    //作用范围中心点（1自身为中心，2目标为中心）,如果地面魔法,那么也表示起点
+    private int q_area_target;
+
+    //矩形长（像素）
+    private int q_area_length;
+
+    //矩形宽
+    private int q_area_width;
+
+    //扇形开始角度
+    private int q_sector_start;
+
+    //扇形结束角度
+    private int q_secto_end;
+
+    //扇形半径(像素)
+    private int q_sector_radius;
+
+    //圆半径(像素)
+    private int q_circular_radius;
+
+    //是否触发一次战斗公式的伤害（0不触发，1触发）
+    private int q_trigger_figth_hurt;
+
+    //每次造成大怪(BOSS,精英)仇恨值
+    private int q_enmity;
+
+    //技能类型（0普通爆发技能，1地面行走魔法(需要配置飞行速度),2地面定点效果
+    private int q_skill_ground_type;
+
+    //技能是否需要引导(1表示需要引导)
+    private int q_guide;
+
+    //相同地面魔法是否可叠加效果,0可叠加,1不可叠加
+    private int q_skill_ground_qverlay;
+
+    //地面魔法作用次数,0不限制,  大于0释放后执行触发效果的次数 (陷阱填1)
+    private int q_skill_act_num;
+
+    //地面魔法作用间隔时间（单位毫秒，500的倍数）
+    private int q_skill_ground_period;
+
+    //地面魔法持续时间/引导技能引导时间（毫秒）
+    private int q_skill_time;
+
+    //所处技能面板大类(0基础，1被动)
+    private int q_panel_type;
+
+    //受到该列技能克制
+    private int q_restriction;
+
+    //技能加成攻击力值
+    private int q_attack_addition;
+
+    //是否忽视（个位为1禁止吸血，十位为1禁止闪避）
+    private int q_is_ignore;
+
+    //升级所需真气值
+    private int q_energy_up;
+
+    //升级所需银两
+    private int q_cost_up;
+
+    //升级所需人物等级
+    private int q_level_up;
+
+    //技能描述所需数值
+    private String q_introduce;
+	
+	
+
+    /**
+     * get 技能编号_技能等级
+     * @return 
+     */
+    public String getQ_skillID_q_grade(){
+        return q_skillID_q_grade;
+    }
+
+    /**
+     * set 技能编号_技能等级
+     */
+    public void setQ_skillID_q_grade(String q_skillID_q_grade){
+        this.q_skillID_q_grade = q_skillID_q_grade;
+    }
+
+    /**
+     * get 技能编号
+     * @return 
+     */
+    public int getQ_skillID(){
+        return q_skillID;
+    }
+
+    /**
+     * set 技能编号
+     */
+    public void setQ_skillID(int q_skillID){
+        this.q_skillID = q_skillID;
+    }
+
+    /**
+     * get 技能等级
+     * @return 
+     */
+    public int getQ_grade(){
+        return q_grade;
+    }
+
+    /**
+     * set 技能等级
+     */
+    public void setQ_grade(int q_grade){
+        this.q_grade = q_grade;
+    }
+
+    /**
+     * get 最大等级
+     * @return 
+     */
+    public int getQ_max_level(){
+        return q_max_level;
+    }
+
+    /**
+     * set 最大等级
+     */
+    public void setQ_max_level(int q_max_level){
+        this.q_max_level = q_max_level;
+    }
+
+    /**
+     * get 技能名称
+     * @return 
+     */
+    public String getQ_skillName(){
+        return q_skillName;
+    }
+
+    /**
+     * set 技能名称
+     */
+    public void setQ_skillName(String q_skillName){
+        this.q_skillName = q_skillName;
+    }
+
+    /**
+     * get 显示所需人物等级
+     * @return 
+     */
+    public int getQ_show_needgrade(){
+        return q_show_needgrade;
+    }
+
+    /**
+     * set 显示所需人物等级
+     */
+    public void setQ_show_needgrade(int q_show_needgrade){
+        this.q_show_needgrade = q_show_needgrade;
+    }
+
+    /**
+     * get （前端使用）战斗力加成
+     * @return 
+     */
+    public int getQ_fight_bonus(){
+        return q_fight_bonus;
+    }
+
+    /**
+     * set （前端使用）战斗力加成
+     */
+    public void setQ_fight_bonus(int q_fight_bonus){
+        this.q_fight_bonus = q_fight_bonus;
+    }
+
+    /**
+     * get 技能伤害类型（0默认攻击技能，1治疗技能）
+     * @return 
+     */
+    public int getQ_hurt_type(){
+        return q_hurt_type;
+    }
+
+    /**
+     * set 技能伤害类型（0默认攻击技能，1治疗技能）
+     */
+    public void setQ_hurt_type(int q_hurt_type){
+        this.q_hurt_type = q_hurt_type;
+    }
+
+    /**
+     * get 使用方式（1主动技能，2被动技能）
+     * @return 
+     */
+    public int getQ_trigger_type(){
+        return q_trigger_type;
+    }
+
+    /**
+     * set 使用方式（1主动技能，2被动技能）
+     */
+    public void setQ_trigger_type(int q_trigger_type){
+        this.q_trigger_type = q_trigger_type;
+    }
+
+    /**
+     * get 触发方式（1在攻击时触发，2在挨打时触发(没做）,3攻击与挨打时都触发（没做），4命中后触发，5 被攻击死亡之前触发）
+     * @return 
+     */
+    public int getQ_passive_action(){
+        return q_passive_action;
+    }
+
+    /**
+     * set 触发方式（1在攻击时触发，2在挨打时触发(没做）,3攻击与挨打时都触发（没做），4命中后触发，5 被攻击死亡之前触发）
+     */
+    public void setQ_passive_action(int q_passive_action){
+        this.q_passive_action = q_passive_action;
+    }
+
+    /**
+     * get 使用消耗内力值
+     * @return 
+     */
+    public int getQ_need_mp(){
+        return q_need_mp;
+    }
+
+    /**
+     * set 使用消耗内力值
+     */
+    public void setQ_need_mp(int q_need_mp){
+        this.q_need_mp = q_need_mp;
+    }
+
+    /**
+     * get 技能吟唱时间（毫秒，0表示无吟唱时间）
+     * @return 
+     */
+    public int getQ_singing_time(){
+        return q_singing_time;
+    }
+
+    /**
+     * set 技能吟唱时间（毫秒，0表示无吟唱时间）
+     */
+    public void setQ_singing_time(int q_singing_time){
+        this.q_singing_time = q_singing_time;
+    }
+
+    /**
+     * get 冷却时间（毫秒）
+     * @return 
+     */
+    public int getQ_cd(){
+        return q_cd;
+    }
+
+    /**
+     * set 冷却时间（毫秒）
+     */
+    public void setQ_cd(int q_cd){
+        this.q_cd = q_cd;
+    }
+
+    /**
+     * get 公共冷却时间
+     * @return 
+     */
+    public int getQ_public_cd(){
+        return q_public_cd;
+    }
+
+    /**
+     * set 公共冷却时间
+     */
+    public void setQ_public_cd(int q_public_cd){
+        this.q_public_cd = q_public_cd;
+    }
+
+    /**
+     * get 公共冷却层级
+     * @return 
+     */
+    public int getQ_public_cd_level(){
+        return q_public_cd_level;
+    }
+
+    /**
+     * set 公共冷却层级
+     */
+    public void setQ_public_cd_level(int q_public_cd_level){
+        this.q_public_cd_level = q_public_cd_level;
+    }
+
+    /**
+     * get 延迟命中时间（单位：毫秒）
+     * @return 
+     */
+    public int getQ_delay_time(){
+        return q_delay_time;
+    }
+
+    /**
+     * set 延迟命中时间（单位：毫秒）
+     */
+    public void setQ_delay_time(int q_delay_time){
+        this.q_delay_time = q_delay_time;
+    }
+
+    /**
+     * get 使用距离限制（自身与目标之间的距离）（单位：格子）,地面行走魔法表示行走距离
+     * @return 
+     */
+    public int getQ_range_limit(){
+        return q_range_limit;
+    }
+
+    /**
+     * set 使用距离限制（自身与目标之间的距离）（单位：格子）,地面行走魔法表示行走距离
+     */
+    public void setQ_range_limit(int q_range_limit){
+        this.q_range_limit = q_range_limit;
+    }
+
+    /**
+     * get 弹道飞行速度（单位：像素/秒）如果为0,表示无弹道,直接打鼠标指的地方或者直接作用到目标身上.PS：有弹道的话会碰触到任何目标都会触发。
+     * @return 
+     */
+    public int getQ_trajectory_speed(){
+        return q_trajectory_speed;
+    }
+
+    /**
+     * set 弹道飞行速度（单位：像素/秒）如果为0,表示无弹道,直接打鼠标指的地方或者直接作用到目标身上.PS：有弹道的话会碰触到任何目标都会触发。
+     */
+    public void setQ_trajectory_speed(int q_trajectory_speed){
+        this.q_trajectory_speed = q_trajectory_speed;
+    }
+
+    /**
+     * get 作用对象（1自己，2友好目标，3敌对目标，4当前目标，5场景中鼠标的当前坐标点，6主人）
+     * @return 
+     */
+    public int getQ_target(){
+        return q_target;
+    }
+
+    /**
+     * set 作用对象（1自己，2友好目标，3敌对目标，4当前目标，5场景中鼠标的当前坐标点，6主人）
+     */
+    public void setQ_target(int q_target){
+        this.q_target = q_target;
+    }
+
+    /**
+     * get 作用目标上限
+     * @return 
+     */
+    public int getQ_target_max(){
+        return q_target_max;
+    }
+
+    /**
+     * set 作用目标上限
+     */
+    public void setQ_target_max(int q_target_max){
+        this.q_target_max = q_target_max;
+    }
+
+    /**
+     * get 技能伤害系数（万分比分子）
+     * @return 
+     */
+    public int getQ_hurt_correct_factor(){
+        return q_hurt_correct_factor;
+    }
+
+    /**
+     * set 技能伤害系数（万分比分子）
+     */
+    public void setQ_hurt_correct_factor(int q_hurt_correct_factor){
+        this.q_hurt_correct_factor = q_hurt_correct_factor;
+    }
+
+    /**
+     * get 技能附加伤害
+     * @return 
+     */
+    public int getQ_ignore_defence(){
+        return q_ignore_defence;
+    }
+
+    /**
+     * set 技能附加伤害
+     */
+    public void setQ_ignore_defence(int q_ignore_defence){
+        this.q_ignore_defence = q_ignore_defence;
+    }
+
+    /**
+     * get 生命值低于万分比
+     * @return 
+     */
+    public int getQ_underHp_per(){
+        return q_underHp_per;
+    }
+
+    /**
+     * set 生命值低于万分比
+     */
+    public void setQ_underHp_per(int q_underHp_per){
+        this.q_underHp_per = q_underHp_per;
+    }
+
+    /**
+     * get 生命值低于百分比后提高技能伤害万分比
+     * @return 
+     */
+    public int getQ_underHP_Damage_per(){
+        return q_underHP_Damage_per;
+    }
+
+    /**
+     * set 生命值低于百分比后提高技能伤害万分比
+     */
+    public void setQ_underHP_Damage_per(int q_underHP_Damage_per){
+        this.q_underHP_Damage_per = q_underHP_Damage_per;
+    }
+
+    /**
+     * get 生命值
+     * @return 
+     */
+    public int getQ_maxHp(){
+        return q_maxHp;
+    }
+
+    /**
+     * set 生命值
+     */
+    public void setQ_maxHp(int q_maxHp){
+        this.q_maxHp = q_maxHp;
+    }
+
+    /**
+     * get 攻击力
+     * @return 
+     */
+    public int getQ_attack(){
+        return q_attack;
+    }
+
+    /**
+     * set 攻击力
+     */
+    public void setQ_attack(int q_attack){
+        this.q_attack = q_attack;
+    }
+
+    /**
+     * get 防御力
+     * @return 
+     */
+    public int getQ_defence(){
+        return q_defence;
+    }
+
+    /**
+     * set 防御力
+     */
+    public void setQ_defence(int q_defence){
+        this.q_defence = q_defence;
+    }
+
+    /**
+     * get 命中值
+     * @return 
+     */
+    public int getQ_hit(){
+        return q_hit;
+    }
+
+    /**
+     * set 命中值
+     */
+    public void setQ_hit(int q_hit){
+        this.q_hit = q_hit;
+    }
+
+    /**
+     * get 闪避值
+     * @return 
+     */
+    public int getQ_dodge(){
+        return q_dodge;
+    }
+
+    /**
+     * set 闪避值
+     */
+    public void setQ_dodge(int q_dodge){
+        this.q_dodge = q_dodge;
+    }
+
+    /**
+     * get 暴击值
+     * @return 
+     */
+    public int getQ_crit(){
+        return q_crit;
+    }
+
+    /**
+     * set 暴击值
+     */
+    public void setQ_crit(int q_crit){
+        this.q_crit = q_crit;
+    }
+
+    /**
+     * get 抗暴值
+     * @return 
+     */
+    public int getQ_antiCrit(){
+        return q_antiCrit;
+    }
+
+    /**
+     * set 抗暴值
+     */
+    public void setQ_antiCrit(int q_antiCrit){
+        this.q_antiCrit = q_antiCrit;
+    }
+
+    /**
+     * get 攻击速度百分比 
+     * @return 
+     */
+    public int getQ_attackSpeed_Per(){
+        return q_attackSpeed_Per;
+    }
+
+    /**
+     * set 攻击速度百分比 
+     */
+    public void setQ_attackSpeed_Per(int q_attackSpeed_Per){
+        this.q_attackSpeed_Per = q_attackSpeed_Per;
+    }
+
+    /**
+     * get 召唤怪物ID（1是幻象分身）
+     * @return 
+     */
+    public int getQ_summon_id(){
+        return q_summon_id;
+    }
+
+    /**
+     * set 召唤怪物ID（1是幻象分身）
+     */
+    public void setQ_summon_id(int q_summon_id){
+        this.q_summon_id = q_summon_id;
+    }
+
+    /**
+     * get 召唤怪物数量
+     * @return 
+     */
+    public int getQ_summon_num(){
+        return q_summon_num;
+    }
+
+    /**
+     * set 召唤怪物数量
+     */
+    public void setQ_summon_num(int q_summon_num){
+        this.q_summon_num = q_summon_num;
+    }
+
+    /**
+     * get 召唤的幻象分身，生命值比例（万分比分子）
+     * @return 
+     */
+    public int getQ_summon_hp(){
+        return q_summon_hp;
+    }
+
+    /**
+     * set 召唤的幻象分身，生命值比例（万分比分子）
+     */
+    public void setQ_summon_hp(int q_summon_hp){
+        this.q_summon_hp = q_summon_hp;
+    }
+
+    /**
+     * get 召唤的幻象分身，攻击力比例（万分比分子）
+     * @return 
+     */
+    public int getQ_summon_attack(){
+        return q_summon_attack;
+    }
+
+    /**
+     * set 召唤的幻象分身，攻击力比例（万分比分子）
+     */
+    public void setQ_summon_attack(int q_summon_attack){
+        this.q_summon_attack = q_summon_attack;
+    }
+
+    /**
+     * get 召唤的怪物/幻象分身持续时间（单位：秒）
+     * @return 
+     */
+    public int getQ_summon_last(){
+        return q_summon_last;
+    }
+
+    /**
+     * set 召唤的怪物/幻象分身持续时间（单位：秒）
+     */
+    public void setQ_summon_last(int q_summon_last){
+        this.q_summon_last = q_summon_last;
+    }
+
+    /**
+     * get BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+     * @return 
+     */
+    public String getQ_buff_trigger(){
+        return q_buff_trigger;
+    }
+
+    /**
+     * set BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+     */
+    public void setQ_buff_trigger(String q_buff_trigger){
+        this.q_buff_trigger = q_buff_trigger;
+    }
+
+    /**
+     * get 被动触发几率（本处填万分比的分子） 如果是被动技能触发才有效，BUFF触发概率通过BUFF表控制
+     * @return 
+     */
+    public int getQ_passive_prob(){
+        return q_passive_prob;
+    }
+
+    /**
+     * set 被动触发几率（本处填万分比的分子） 如果是被动技能触发才有效，BUFF触发概率通过BUFF表控制
+     */
+    public void setQ_passive_prob(int q_passive_prob){
+        this.q_passive_prob = q_passive_prob;
+    }
+
+    /**
+     * get 触发后附加的BUFF编号序列（格式：BUFF编号;BUFF编号）
+     * @return 
+     */
+    public String getQ_passive_buff(){
+        return q_passive_buff;
+    }
+
+    /**
+     * set 触发后附加的BUFF编号序列（格式：BUFF编号;BUFF编号）
+     */
+    public void setQ_passive_buff(String q_passive_buff){
+        this.q_passive_buff = q_passive_buff;
+    }
+
+    /**
+     * get BUFF命中系数
+     * @return 
+     */
+    public int getQ_buff_hit(){
+        return q_buff_hit;
+    }
+
+    /**
+     * set BUFF命中系数
+     */
+    public void setQ_buff_hit(int q_buff_hit){
+        this.q_buff_hit = q_buff_hit;
+    }
+
+    /**
+     * get BUFF修正系数
+     * @return 
+     */
+    public int getQ_buff_amendment(){
+        return q_buff_amendment;
+    }
+
+    /**
+     * set BUFF修正系数
+     */
+    public void setQ_buff_amendment(int q_buff_amendment){
+        this.q_buff_amendment = q_buff_amendment;
+    }
+
+    /**
+     * get 成功施加BUFF系数
+     * @return 
+     */
+    public int getQ_bufq_trigger_factor(){
+        return q_bufq_trigger_factor;
+    }
+
+    /**
+     * set 成功施加BUFF系数
+     */
+    public void setQ_bufq_trigger_factor(int q_bufq_trigger_factor){
+        this.q_bufq_trigger_factor = q_bufq_trigger_factor;
+    }
+
+    /**
+     * get 成功施加BUFF抵抗系数
+     * @return 
+     */
+    public int getQ_bufq_defence_factor(){
+        return q_bufq_defence_factor;
+    }
+
+    /**
+     * set 成功施加BUFF抵抗系数
+     */
+    public void setQ_bufq_defence_factor(int q_bufq_defence_factor){
+        this.q_bufq_defence_factor = q_bufq_defence_factor;
+    }
+
+    /**
+     * get BUFF持续时间提升系数
+     * @return 
+     */
+    public int getQ_bufq_timeup_factor(){
+        return q_bufq_timeup_factor;
+    }
+
+    /**
+     * set BUFF持续时间提升系数
+     */
+    public void setQ_bufq_timeup_factor(int q_bufq_timeup_factor){
+        this.q_bufq_timeup_factor = q_bufq_timeup_factor;
+    }
+
+    /**
+     * get BUFF持续时间减免系数
+     * @return 
+     */
+    public int getQ_bufq_timedown_factor(){
+        return q_bufq_timedown_factor;
+    }
+
+    /**
+     * set BUFF持续时间减免系数
+     */
+    public void setQ_bufq_timedown_factor(int q_bufq_timedown_factor){
+        this.q_bufq_timedown_factor = q_bufq_timedown_factor;
+    }
+
+    /**
+     * get BUFF作用数值修正系数
+     * @return 
+     */
+    public int getQ_bufq_num_factor(){
+        return q_bufq_num_factor;
+    }
+
+    /**
+     * set BUFF作用数值修正系数
+     */
+    public void setQ_bufq_num_factor(int q_bufq_num_factor){
+        this.q_bufq_num_factor = q_bufq_num_factor;
+    }
+
+    /**
+     * get BUFF作用比例修正系数（特殊：符鬼技能攻击目标死亡后恢复生命值比例（万分比分子））
+     * @return 
+     */
+    public int getQ_bufq_action_factor(){
+        return q_bufq_action_factor;
+    }
+
+    /**
+     * set BUFF作用比例修正系数（特殊：符鬼技能攻击目标死亡后恢复生命值比例（万分比分子））
+     */
+    public void setQ_bufq_action_factor(int q_bufq_action_factor){
+        this.q_bufq_action_factor = q_bufq_action_factor;
+    }
+
+    /**
+     * get 作用范围形状（1单体，2矩形，3扇形，4圆形）
+     * @return 
+     */
+    public int getQ_area_shape(){
+        return q_area_shape;
+    }
+
+    /**
+     * set 作用范围形状（1单体，2矩形，3扇形，4圆形）
+     */
+    public void setQ_area_shape(int q_area_shape){
+        this.q_area_shape = q_area_shape;
+    }
+
+    /**
+     * get 作用范围中心点（1自身为中心，2目标为中心）,如果地面魔法,那么也表示起点
+     * @return 
+     */
+    public int getQ_area_target(){
+        return q_area_target;
+    }
+
+    /**
+     * set 作用范围中心点（1自身为中心，2目标为中心）,如果地面魔法,那么也表示起点
+     */
+    public void setQ_area_target(int q_area_target){
+        this.q_area_target = q_area_target;
+    }
+
+    /**
+     * get 矩形长（像素）
+     * @return 
+     */
+    public int getQ_area_length(){
+        return q_area_length;
+    }
+
+    /**
+     * set 矩形长（像素）
+     */
+    public void setQ_area_length(int q_area_length){
+        this.q_area_length = q_area_length;
+    }
+
+    /**
+     * get 矩形宽
+     * @return 
+     */
+    public int getQ_area_width(){
+        return q_area_width;
+    }
+
+    /**
+     * set 矩形宽
+     */
+    public void setQ_area_width(int q_area_width){
+        this.q_area_width = q_area_width;
+    }
+
+    /**
+     * get 扇形开始角度
+     * @return 
+     */
+    public int getQ_sector_start(){
+        return q_sector_start;
+    }
+
+    /**
+     * set 扇形开始角度
+     */
+    public void setQ_sector_start(int q_sector_start){
+        this.q_sector_start = q_sector_start;
+    }
+
+    /**
+     * get 扇形结束角度
+     * @return 
+     */
+    public int getQ_secto_end(){
+        return q_secto_end;
+    }
+
+    /**
+     * set 扇形结束角度
+     */
+    public void setQ_secto_end(int q_secto_end){
+        this.q_secto_end = q_secto_end;
+    }
+
+    /**
+     * get 扇形半径(像素)
+     * @return 
+     */
+    public int getQ_sector_radius(){
+        return q_sector_radius;
+    }
+
+    /**
+     * set 扇形半径(像素)
+     */
+    public void setQ_sector_radius(int q_sector_radius){
+        this.q_sector_radius = q_sector_radius;
+    }
+
+    /**
+     * get 圆半径(像素)
+     * @return 
+     */
+    public int getQ_circular_radius(){
+        return q_circular_radius;
+    }
+
+    /**
+     * set 圆半径(像素)
+     */
+    public void setQ_circular_radius(int q_circular_radius){
+        this.q_circular_radius = q_circular_radius;
+    }
+
+    /**
+     * get 是否触发一次战斗公式的伤害（0不触发，1触发）
+     * @return 
+     */
+    public int getQ_trigger_figth_hurt(){
+        return q_trigger_figth_hurt;
+    }
+
+    /**
+     * set 是否触发一次战斗公式的伤害（0不触发，1触发）
+     */
+    public void setQ_trigger_figth_hurt(int q_trigger_figth_hurt){
+        this.q_trigger_figth_hurt = q_trigger_figth_hurt;
+    }
+
+    /**
+     * get 每次造成大怪(BOSS,精英)仇恨值
+     * @return 
+     */
+    public int getQ_enmity(){
+        return q_enmity;
+    }
+
+    /**
+     * set 每次造成大怪(BOSS,精英)仇恨值
+     */
+    public void setQ_enmity(int q_enmity){
+        this.q_enmity = q_enmity;
+    }
+
+    /**
+     * get 技能类型（0普通爆发技能，1地面行走魔法(需要配置飞行速度),2地面定点效果
+     * @return 
+     */
+    public int getQ_skill_ground_type(){
+        return q_skill_ground_type;
+    }
+
+    /**
+     * set 技能类型（0普通爆发技能，1地面行走魔法(需要配置飞行速度),2地面定点效果
+     */
+    public void setQ_skill_ground_type(int q_skill_ground_type){
+        this.q_skill_ground_type = q_skill_ground_type;
+    }
+
+    /**
+     * get 技能是否需要引导(1表示需要引导)
+     * @return 
+     */
+    public int getQ_guide(){
+        return q_guide;
+    }
+
+    /**
+     * set 技能是否需要引导(1表示需要引导)
+     */
+    public void setQ_guide(int q_guide){
+        this.q_guide = q_guide;
+    }
+
+    /**
+     * get 相同地面魔法是否可叠加效果,0可叠加,1不可叠加
+     * @return 
+     */
+    public int getQ_skill_ground_qverlay(){
+        return q_skill_ground_qverlay;
+    }
+
+    /**
+     * set 相同地面魔法是否可叠加效果,0可叠加,1不可叠加
+     */
+    public void setQ_skill_ground_qverlay(int q_skill_ground_qverlay){
+        this.q_skill_ground_qverlay = q_skill_ground_qverlay;
+    }
+
+    /**
+     * get 地面魔法作用次数,0不限制,  大于0释放后执行触发效果的次数 (陷阱填1)
+     * @return 
+     */
+    public int getQ_skill_act_num(){
+        return q_skill_act_num;
+    }
+
+    /**
+     * set 地面魔法作用次数,0不限制,  大于0释放后执行触发效果的次数 (陷阱填1)
+     */
+    public void setQ_skill_act_num(int q_skill_act_num){
+        this.q_skill_act_num = q_skill_act_num;
+    }
+
+    /**
+     * get 地面魔法作用间隔时间（单位毫秒，500的倍数）
+     * @return 
+     */
+    public int getQ_skill_ground_period(){
+        return q_skill_ground_period;
+    }
+
+    /**
+     * set 地面魔法作用间隔时间（单位毫秒，500的倍数）
+     */
+    public void setQ_skill_ground_period(int q_skill_ground_period){
+        this.q_skill_ground_period = q_skill_ground_period;
+    }
+
+    /**
+     * get 地面魔法持续时间/引导技能引导时间（毫秒）
+     * @return 
+     */
+    public int getQ_skill_time(){
+        return q_skill_time;
+    }
+
+    /**
+     * set 地面魔法持续时间/引导技能引导时间（毫秒）
+     */
+    public void setQ_skill_time(int q_skill_time){
+        this.q_skill_time = q_skill_time;
+    }
+
+    /**
+     * get 所处技能面板大类(0基础，1被动)
+     * @return 
+     */
+    public int getQ_panel_type(){
+        return q_panel_type;
+    }
+
+    /**
+     * set 所处技能面板大类(0基础，1被动)
+     */
+    public void setQ_panel_type(int q_panel_type){
+        this.q_panel_type = q_panel_type;
+    }
+
+    /**
+     * get 受到该列技能克制
+     * @return 
+     */
+    public int getQ_restriction(){
+        return q_restriction;
+    }
+
+    /**
+     * set 受到该列技能克制
+     */
+    public void setQ_restriction(int q_restriction){
+        this.q_restriction = q_restriction;
+    }
+
+    /**
+     * get 技能加成攻击力值
+     * @return 
+     */
+    public int getQ_attack_addition(){
+        return q_attack_addition;
+    }
+
+    /**
+     * set 技能加成攻击力值
+     */
+    public void setQ_attack_addition(int q_attack_addition){
+        this.q_attack_addition = q_attack_addition;
+    }
+
+    /**
+     * get 是否忽视（个位为1禁止吸血，十位为1禁止闪避）
+     * @return 
+     */
+    public int getQ_is_ignore(){
+        return q_is_ignore;
+    }
+
+    /**
+     * set 是否忽视（个位为1禁止吸血，十位为1禁止闪避）
+     */
+    public void setQ_is_ignore(int q_is_ignore){
+        this.q_is_ignore = q_is_ignore;
+    }
+
+    /**
+     * get 升级所需真气值
+     * @return 
+     */
+    public int getQ_energy_up(){
+        return q_energy_up;
+    }
+
+    /**
+     * set 升级所需真气值
+     */
+    public void setQ_energy_up(int q_energy_up){
+        this.q_energy_up = q_energy_up;
+    }
+
+    /**
+     * get 升级所需银两
+     * @return 
+     */
+    public int getQ_cost_up(){
+        return q_cost_up;
+    }
+
+    /**
+     * set 升级所需银两
+     */
+    public void setQ_cost_up(int q_cost_up){
+        this.q_cost_up = q_cost_up;
+    }
+
+    /**
+     * get 升级所需人物等级
+     * @return 
+     */
+    public int getQ_level_up(){
+        return q_level_up;
+    }
+
+    /**
+     * set 升级所需人物等级
+     */
+    public void setQ_level_up(int q_level_up){
+        this.q_level_up = q_level_up;
+    }
+
+    /**
+     * get 技能描述所需数值
+     * @return 
+     */
+    public String getQ_introduce(){
+        return q_introduce;
+    }
+
+    /**
+     * set 技能描述所需数值
+     */
+    public void setQ_introduce(String q_introduce){
+        this.q_introduce = q_introduce;
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[16:42:33] DEBUG[1] ===========Q_skill_modelReviseBean.java===============
+package com.game.data.revise_bean;
+
+import java.util.ArrayList;
+import java.util.List;
+import com.game.data.bean.Q_skill_modelBean;
+
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 16:42:33
+ * 
+ * Q_skill_model ReviseBean
+ */
+public class Q_skill_modelReviseBean extends Q_skill_modelBean{
+
+    //BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+    private List<SkillTriggerBuff> q_buff_trigger_revise = new ArrayList<SkillTriggerBuff>();
+	
+	
+
+    /**
+     * get BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+     * @return 
+     */
+    public List<SkillTriggerBuff> getQ_buff_trigger_revise(){
+        return q_buff_trigger_revise;
+    }
+
+    /**
+     * set BUFF触发器，JSON格式用于描述改技能释放后如如何触发各种BUFF。格式为:{t, s, id }{触发类型,作用目标，BuffID}t=触发类型: 1:命中，2:未命中,3:暴击 4:杀死.s=作用目标: true:自己, false:攻击目标id=buff的ID对应BUFF表。例子:[{"t":1, "s":false, "id":1001, "r":10000},{"t":3,"s":true, "id":1002, "r":10000}]可以把里边值复制到http://www.json.cn.网站去查看
+     */
+    public void setQ_buff_trigger_revise(List<SkillTriggerBuff> q_buff_trigger_revise){
+        this.q_buff_trigger_revise = q_buff_trigger_revise;
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[16:42:33] DEBUG[1] ===========Q_skill_modelContainer.java===============
+package com.game.data.container;
+
+import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import com.game.json.FastJSONserializable;
+import org.apache.commons.lang.StringUtils;
+
+import com.game.data.bean.Q_skill_modelBean;
+import com.game.data.revise_bean.Q_skill_modelReviseBean;
+import com.game.data.dao.Q_skill_modelDao;
+import com.game.data.structs.IContainer;
+
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 16:42:33
+ * 
+ * Q_skill_model Container
+ */
+public class Q_skill_modelContainer implements IContainer {
+
+    private List<Q_skill_modelBean> list;
+
+    private HashMap<String, Q_skill_modelBean> map = new HashMap<String, Q_skill_modelBean>();
+
+    private Q_skill_modelDao dao = new Q_skill_modelDao();
+
+	private List<Q_skill_modelReviseBean> listRevise = new ArrayList<>();
+
+	private HashMap<String, Q_skill_modelReviseBean> mapRevise = new HashMap<>();
+
+    public void load(){
+        list = dao.select();
+        Iterator<Q_skill_modelBean> iter = list.iterator();
+        while (iter.hasNext()) {
+            Q_skill_modelBean bean = (Q_skill_modelBean) iter.next();
+            map.put(bean.getQ_skillID_q_grade(), bean);
+        }
+		init();
+    }
+
+    public List<Q_skill_modelBean> getList(){
+        return list;
+    }
+
+    public HashMap<String, Q_skill_modelBean> getMap(){
+        return map;
+    }
+
+	/**
+     * 初始化(实现加载完成后数据处理)
+     */
+    public void init() {
+        listRevise.clear();
+        mapRevise.clear();
+        Iterator<Q_skill_modelBean> iter = list.iterator();
+        while (iter.hasNext()) {
+            Q_skill_modelBean bean = (Q_skill_modelBean) iter.next();
+            Q_skill_modelReviseBean beanRevise = new Q_skill_modelReviseBean();
+            
+			    
+			if (!StringUtils.isEmpty(bean.getQ_buff_trigger())) {
+				beanRevise.setQ_buff_trigger_revise(FastJSONserializable.toList(bean.getQ_buff_trigger(), SkillTriggerBuff.class));
+			}	
+				
+
+            listRevise.add(beanRevise);
+            mapRevise.put(beanRevise.getQ_skillID_q_grade(), beanRevise);
+        }
+        list.clear();
+        map.clear();
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[16:42:33] DEBUG[1] ===========Q_skill_modelDao.java===============
+package com.game.data.dao;
+
+import java.util.List;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+
+import com.game.data.BaseDao;
+import com.game.data.bean.Q_skill_modelBean;
+
+/** 
+ * @author XSot.ResourceTools Auto Maker
+ * 
+ * @version 1.0.0
+ * 
+ * @date 2015-12-25 16:42:33
+ * 
+ * Q_skill_model Container
+ */
+public class Q_skill_modelDao extends BaseDao {
+
+    private SqlSessionFactory sqlMapper = getSqlMapper();
+
+	@SuppressWarnings("unchecked")
+    public List<Q_skill_modelBean> select() {
+        SqlSession session = sqlMapper.openSession();
+        try {
+            List<Q_skill_modelBean> list = (List<Q_skill_modelBean>) session.selectList("q_skill_model.select");
+            return list;
+        } finally {
+            session.close();
+        }
+    }
+}(JavaDataGenerateInfo.SaveFile:0)
+[16:42:33]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)
+[17:22:17]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[17:22:17]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[17:22:17]  INFO[1] 查找到 160 个文件。(ExcelManager.LoadFileInfos:0)
+[17:22:17]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[17:22:26]  INFO[4] 开始解析【4 技能基本数据库_new.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[17:22:52]  INFO[1] Data Java 文件生成完毕！(MainForm.OnClick:0)
+[17:23:15]  INFO[1] Data Java 文件生成完毕！(MainForm.OnClick:0)
+[17:25:32]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[17:25:33]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[17:25:33]  INFO[1] 查找到 160 个文件。(ExcelManager.LoadFileInfos:0)
+[17:25:33]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[17:25:42]  INFO[4] 开始解析【4 技能基本数据库_new.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[17:26:22]  INFO[1] 修改数据库连接信息。(JavaDataGenerateInfo.ParseDatabaseConfig:0)
+[17:26:22]  INFO[1] 修改数据库连接账号。(JavaDataGenerateInfo.ParseDatabaseConfig:0)
+[17:26:22]  INFO[1] 修改数据库连接密码。(JavaDataGenerateInfo.ParseDatabaseConfig:0)
+[17:26:23]  INFO[1] Data Java 文件生成完毕！(MainForm.OnClick:0)

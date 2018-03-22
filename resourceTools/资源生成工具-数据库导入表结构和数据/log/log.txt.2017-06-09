@@ -1,0 +1,8 @@
+[11:17:09]  INFO[1] 操作完毕。(MainForm.RaiseEvent:0)
+[11:17:09]  INFO[70] 开始解析【05 地图加载与属性数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[11:17:14]  INFO[1] ============================================(MainForm.C_MainMenu_Scheme_InsertData_Click:0)
+[11:17:14]  INFO[1] 开始往数据库导入数据。(MainForm.C_MainMenu_Scheme_InsertData_Click:0)
+[11:17:14]  INFO[70] 开始导入【05 地图加载与属性数据库.xlsx】文件的【q_map】工作簿数据，生成版本号(609111700)，共25行数据。(MainForm.<C_MainMenu_Scheme_InsertData_Click>b__2d:0)
+[11:17:15]  INFO[70] 【q_map】表数据导入完毕，共25条，成功25条，失败0条，用时：98.621ms。(MainForm.<C_MainMenu_Scheme_InsertData_Click>b__2d:0)
+[11:17:15]  INFO[68] ============================================(MainForm.<C_MainMenu_Scheme_InsertData_Click>b__2a:0)
+[11:17:15]  INFO[68] 表数据导入完毕，选择 1 张表，其中有 0 张表有数据导入失败，耗时：96.6988ms。(MainForm.<C_MainMenu_Scheme_InsertData_Click>b__2a:0)

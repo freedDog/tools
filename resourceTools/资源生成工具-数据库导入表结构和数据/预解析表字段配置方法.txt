@@ -1,0 +1,34 @@
+直接在字段名后加预解析方式
+
+原字段名>解析类型(List,Object)_Class类名  
+最终生成代码 FastJSONserializable.to解析类型(bean.get...,Class类名.class)
+
+例：
+原字段名q_revise           q_revise>Object_int[][]  		生成代码 FastJSONserializable.toObject(...,int[][].class)
+原字段名q_revise           q_revise>Object_int[]  		生成代码 FastJSONserializable.toObject(...,int[].class)
+原字段名q_items            q_item>List_TempItem	    		生成代码 FastJSONserializable.toList(...,TempItem.class)
+原字段名q_items            q_item>Object_TempItem	    	生成代码 FastJSONserializable.toObject(...,TempItem.class)
+原字段名q_items            q_item>List_String	    		生成代码 FastJSONserializable.toObject(...,String.class)
+
+  不能把一个表的主键配置成预解析
+
+  解析类型只支持生成List 或 Object
+
+  如果配置为>List_... 最后会生成ArrayList<...>
+由于java的ArrayList<...>中的...类型必须为装箱过后的类型 不能是基本类型
+所以如  q_revise>List_int 最后生成 ArrayList<int>不能编译通过 q_revise>List_Integer才行 这种情况最好用 q_revise>Object_int[]
+至于 q_revise>Object_int 这样写没意义
+
+
+上例中的TempItem是自定义的结构体，添加自定义的结构体时都需要在custom_classpath.xml下添加对应的包路径
+
+      <custom_class>
+        <CustomJavaClass>
+          <className>TempItem</className>
+          <package>com.old_game.backpack.structs.TempItem</package>
+        </CustomJavaClass>   
+        <CustomJavaClass>           
+          <className>TempItem2</className>
+          <package>com.old_game.backpack.structs.TempItem</package>
+        </CustomJavaClass>    
+      </custom_class>

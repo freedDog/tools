@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<DatabaseConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LastIndex>1</LastIndex>
+  <DbInfos>
+    <DatabaseInfo>
+      <DbType>MySql</DbType>
+      <Title>192.168.1.18</Title>
+      <Username>fk</Username>
+      <Password>fk123</Password>
+      <IPAddress>192.168.1.18</IPAddress>
+      <Port>3306</Port>
+      <Database>xqj_game_data</Database>
+      <VersionInfo>
+        <TableName>q_version</TableName>
+        <TableField>q_tablename</TableField>
+        <IntValueField>q_int_value</IntValueField>
+        <DescField>q_desc</DescField>
+      </VersionInfo>
+    </DatabaseInfo>
+    <DatabaseInfo>
+      <DbType>MySql</DbType>
+      <Title>代码生成工具</Title>
+      <Username>N1HGKJUr53</Username>
+      <Password>JXosseyv7UWcMojpFJuE</Password>
+      <IPAddress>192.168.6.24</IPAddress>
+      <Port>5850</Port>
+      <Database>jyw_game_data</Database>
+      <VersionInfo>
+        <TableName>q_version</TableName>
+        <TableField>q_tablename</TableField>
+        <IntValueField>q_int_value</IntValueField>
+        <DescField>q_desc</DescField>
+      </VersionInfo>
+    </DatabaseInfo>
+  </DbInfos>
+</DatabaseConfig>

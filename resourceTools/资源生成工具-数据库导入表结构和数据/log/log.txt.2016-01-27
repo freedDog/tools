@@ -1,0 +1,4 @@
+[16:58:59]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[16:59:00]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[16:59:00]  INFO[1] 查找到 162 个文件。(ExcelManager.LoadFileInfos:0)
+[16:59:01]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)

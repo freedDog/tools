@@ -1,0 +1,7 @@
+[17:59:20]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[17:59:20]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[17:59:21]  INFO[1] 查找到 50 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[17:59:21]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[18:00:42]  INFO[4] 开始解析【17 绝命套装数据库.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[18:01:31]  INFO[1] 创建  Settings 节点。(JavaDataGenerateInfo.CreateDatabaseSettings:0)
+[18:01:31]  INFO[1] 创建 environments 节点。(JavaDataGenerateInfo.CreateDatabaseEnvironments:0)

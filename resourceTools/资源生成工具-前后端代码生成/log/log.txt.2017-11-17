@@ -1,0 +1,8 @@
+[15:36:05]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[15:36:05]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[15:36:05]  INFO[1] 查找到 139 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[15:36:05]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[15:36:10]  INFO[4] 开始解析【65 机器人配置.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[15:36:11]  WARN[4] 忽略【q_robot】表第26行数据，因为是空行。(ExcelManager.ParseExcelSheetInfo:0)
+[15:36:11]  WARN[4] 忽略【q_robot】表第27行数据，因为是空行。(ExcelManager.ParseExcelSheetInfo:0)
+[15:36:28]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)

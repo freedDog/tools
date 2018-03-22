@@ -1,0 +1,8 @@
+[12:39:46]  INFO[1] 初始化完毕。(MainForm.Init:0)
+[12:39:47]  INFO[1] 加载数据库配制文件。(MainForm.Main:0)
+[12:39:48]  INFO[1] 查找到 1 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[12:39:49]  INFO[1] 文件列表加载完毕。(MainForm.MainForm_Load:0)
+[12:41:01]  INFO[1] 查找到 1 个文件。(ExcelManager.ReloadFileInfoListTask:0)
+[12:41:01]  INFO[1] 文件列表加载完毕。(MainForm.C_MainMenu_ReloadFolder_Click:0)
+[12:41:01]  INFO[4] 开始解析【战斗力.xlsx】文件。(ExcelManager.ParseWorkbook:0)
+[12:41:18]  INFO[1] Data Java 文件生成完毕！(MainForm.C_ContextMenu_Data_CreateJava_Click:0)
